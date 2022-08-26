@@ -1,39 +1,39 @@
 [
   {
     "full_name": "rwv/lookscanned.io",
-    "stargazers_count": 1121,
-    "open_issues_count": 7,
+    "stargazers_count": 1123,
+    "open_issues_count": 6,
     "forks_count": 60
   },
   {
     "full_name": "mergestat/mergestat",
     "stargazers_count": 3114,
     "open_issues_count": 24,
-    "forks_count": 93
+    "forks_count": 92
   },
   {
     "full_name": "check-spelling/check-spelling",
     "stargazers_count": 138,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "codemirror/dev",
-    "stargazers_count": 2869,
+    "stargazers_count": 2878,
     "open_issues_count": 24,
-    "forks_count": 216
+    "forks_count": 218
   },
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 11472,
-    "open_issues_count": 231,
-    "forks_count": 1255
+    "stargazers_count": 11528,
+    "open_issues_count": 228,
+    "forks_count": 1262
   },
   {
     "full_name": "topjohnwu/Magisk",
-    "stargazers_count": 28498,
+    "stargazers_count": 28571,
     "open_issues_count": 40,
-    "forks_count": 7276
+    "forks_count": 7322
   },
   {
     "full_name": "liyasthomas/this-or-that",
@@ -55,57 +55,57 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 45857,
-    "open_issues_count": 96,
-    "forks_count": 3113
+    "stargazers_count": 45924,
+    "open_issues_count": 100,
+    "forks_count": 3120
   },
   {
     "full_name": "microsoft/FluidFramework",
     "stargazers_count": 3978,
-    "open_issues_count": 430,
-    "forks_count": 394
+    "open_issues_count": 440,
+    "forks_count": 395
   },
   {
     "full_name": "FormidableLabs/urql",
-    "stargazers_count": 7413,
-    "open_issues_count": 24,
-    "forks_count": 348
+    "stargazers_count": 7422,
+    "open_issues_count": 27,
+    "forks_count": 351
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 122269,
-    "open_issues_count": 9,
-    "forks_count": 16342
+    "stargazers_count": 122404,
+    "open_issues_count": 7,
+    "forks_count": 16355
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 891,
-    "open_issues_count": 47,
-    "forks_count": 103
+    "stargazers_count": 895,
+    "open_issues_count": 50,
+    "forks_count": 104
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 6369,
-    "open_issues_count": 71,
-    "forks_count": 292
+    "stargazers_count": 6424,
+    "open_issues_count": 74,
+    "forks_count": 296
   },
   {
     "full_name": "hustcc/timeago.js",
     "stargazers_count": 4813,
     "open_issues_count": 38,
-    "forks_count": 405
+    "forks_count": 406
   },
   {
     "full_name": "trekhleb/promote-your-next-startup",
     "stargazers_count": 1879,
     "open_issues_count": 4,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "rowyio/rowy",
-    "stargazers_count": 3400,
-    "open_issues_count": 71,
-    "forks_count": 227
+    "stargazers_count": 3407,
+    "open_issues_count": 75,
+    "forks_count": 228
   },
   {
     "full_name": "kangabru/pretty-snap",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "haraka/Haraka",
-    "stargazers_count": 4216,
+    "stargazers_count": 4218,
     "open_issues_count": 63,
-    "forks_count": 626
+    "forks_count": 627
   },
   {
     "full_name": "Mayandev/notion-avatar",
-    "stargazers_count": 1632,
+    "stargazers_count": 1635,
     "open_issues_count": 0,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "timc1/kbar",
-    "stargazers_count": 3131,
-    "open_issues_count": 18,
-    "forks_count": 111
+    "stargazers_count": 3143,
+    "open_issues_count": 17,
+    "forks_count": 112
   },
   {
     "full_name": "hoppscotch/.github",
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "antfu/unplugin-icons",
-    "stargazers_count": 1725,
+    "stargazers_count": 1739,
     "open_issues_count": 49,
     "forks_count": 72
   },
   {
     "full_name": "justintaddei/v-shared-element",
-    "stargazers_count": 319,
-    "open_issues_count": 6,
+    "stargazers_count": 321,
+    "open_issues_count": 7,
     "forks_count": 13
   },
   {
     "full_name": "Maronato/vue-toastification",
-    "stargazers_count": 1881,
+    "stargazers_count": 1888,
     "open_issues_count": 33,
     "forks_count": 91
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 6225,
-    "open_issues_count": 33,
-    "forks_count": 301
+    "stargazers_count": 6242,
+    "open_issues_count": 29,
+    "forks_count": 300
   },
   {
     "full_name": "freearhey/vue2-filters",
-    "stargazers_count": 932,
+    "stargazers_count": 933,
     "open_issues_count": 0,
     "forks_count": 118
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 206185,
+    "stargazers_count": 206829,
     "open_issues_count": 29,
-    "forks_count": 23606
+    "forks_count": 23657
   }
 ]
