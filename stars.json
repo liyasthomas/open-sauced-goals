@@ -1,27 +1,27 @@
 [
   {
     "full_name": "ibelick/ui-snippets",
-    "stargazers_count": 121,
+    "stargazers_count": 127,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "jgraph/drawio",
-    "stargazers_count": 35174,
-    "open_issues_count": 346,
-    "forks_count": 6865
+    "stargazers_count": 35202,
+    "open_issues_count": 348,
+    "forks_count": 6875
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 5706,
+    "stargazers_count": 5772,
     "open_issues_count": 40,
-    "forks_count": 552
+    "forks_count": 560
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 17397,
-    "open_issues_count": 7,
-    "forks_count": 3187
+    "stargazers_count": 17600,
+    "open_issues_count": 8,
+    "forks_count": 3247
   },
   {
     "full_name": "chrisbottin/xml-formatter",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 3504,
-    "open_issues_count": 74,
+    "stargazers_count": 3510,
+    "open_issues_count": 75,
     "forks_count": 362
   },
   {
@@ -49,57 +49,57 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 0,
     "forks_count": 44
   },
   {
     "full_name": "shinework/photoshot",
-    "stargazers_count": 2086,
+    "stargazers_count": 2093,
     "open_issues_count": 9,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "Atarity/deploy-your-own-saas",
-    "stargazers_count": 4392,
+    "stargazers_count": 4398,
     "open_issues_count": 1,
     "forks_count": 265
   },
   {
     "full_name": "easimon/maximize-build-space",
-    "stargazers_count": 224,
+    "stargazers_count": 227,
     "open_issues_count": 3,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 84533,
+    "stargazers_count": 84789,
     "open_issues_count": 288,
-    "forks_count": 11304
+    "forks_count": 11354
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 7965,
-    "open_issues_count": 60,
+    "stargazers_count": 7974,
+    "open_issues_count": 61,
     "forks_count": 441
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4872,
+    "stargazers_count": 4877,
     "open_issues_count": 124,
-    "forks_count": 235
+    "forks_count": 237
   },
   {
     "full_name": "AveYo/MediaCreationTool.bat",
-    "stargazers_count": 6699,
+    "stargazers_count": 6717,
     "open_issues_count": 61,
-    "forks_count": 2716
+    "forks_count": 2717
   },
   {
     "full_name": "rwv/lookscanned.io",
-    "stargazers_count": 1423,
+    "stargazers_count": 1425,
     "open_issues_count": 10,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "mergestat/mergestat-lite",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "codemirror/dev",
-    "stargazers_count": 4169,
-    "open_issues_count": 34,
-    "forks_count": 313
+    "stargazers_count": 4185,
+    "open_issues_count": 37,
+    "forks_count": 312
   },
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 16044,
-    "open_issues_count": 104,
-    "forks_count": 2006
+    "stargazers_count": 16079,
+    "open_issues_count": 106,
+    "forks_count": 2014
   },
   {
     "full_name": "topjohnwu/Magisk",
-    "stargazers_count": 36367,
-    "open_issues_count": 29,
-    "forks_count": 9617
+    "stargazers_count": 36430,
+    "open_issues_count": 30,
+    "forks_count": 9627
   },
   {
     "full_name": "liyasthomas/this-or-that",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 52977,
-    "open_issues_count": 168,
-    "forks_count": 3631
+    "stargazers_count": 53184,
+    "open_issues_count": 174,
+    "forks_count": 3636
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4367,
-    "open_issues_count": 157,
-    "forks_count": 466
+    "stargazers_count": 4368,
+    "open_issues_count": 159,
+    "forks_count": 467
   },
   {
     "full_name": "urql-graphql/urql",
     "stargazers_count": 8073,
-    "open_issues_count": 18,
+    "open_issues_count": 16,
     "forks_count": 414
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 146247,
+    "stargazers_count": 146378,
     "open_issues_count": 16,
-    "forks_count": 18812
+    "forks_count": 18819
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 5253,
-    "open_issues_count": 146,
+    "stargazers_count": 5291,
+    "open_issues_count": 150,
     "forks_count": 240
   }
 ]
