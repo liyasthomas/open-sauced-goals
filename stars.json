@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "bae-sh/tiptap-extension-resize-image",
+    "stargazers_count": 30,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
     "full_name": "sereneinserenade/tiptap-search-and-replace",
     "stargazers_count": 123,
     "open_issues_count": 1,
@@ -13,38 +19,38 @@
   },
   {
     "full_name": "KingSora/OverlayScrollbars",
-    "stargazers_count": 3642,
-    "open_issues_count": 7,
+    "stargazers_count": 3644,
+    "open_issues_count": 8,
     "forks_count": 212
   },
   {
     "full_name": "xiaokaike/vue-color",
-    "stargazers_count": 2522,
+    "stargazers_count": 2523,
     "open_issues_count": 54,
     "forks_count": 355
   },
   {
     "full_name": "Just-Moh-it/Mockoops",
-    "stargazers_count": 383,
+    "stargazers_count": 385,
     "open_issues_count": 3,
     "forks_count": 45
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 15593,
-    "open_issues_count": 96,
+    "stargazers_count": 15625,
+    "open_issues_count": 95,
     "forks_count": 570
   },
   {
     "full_name": "jacoblee93/fully-local-pdf-chatbot",
-    "stargazers_count": 1443,
+    "stargazers_count": 1445,
     "open_issues_count": 7,
     "forks_count": 256
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 28243,
-    "open_issues_count": 102,
+    "stargazers_count": 28271,
+    "open_issues_count": 101,
     "forks_count": 1277
   },
   {
@@ -55,45 +61,45 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 28780,
-    "open_issues_count": 328,
-    "forks_count": 1398
+    "stargazers_count": 28843,
+    "open_issues_count": 320,
+    "forks_count": 1405
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 27240,
-    "open_issues_count": 179,
-    "forks_count": 3096
+    "stargazers_count": 27351,
+    "open_issues_count": 177,
+    "forks_count": 3113
   },
   {
     "full_name": "CodeByZach/pace",
-    "stargazers_count": 15648,
+    "stargazers_count": 15650,
     "open_issues_count": 278,
     "forks_count": 1908
   },
   {
     "full_name": "podraven/y-fire",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "ibelick/buttons",
-    "stargazers_count": 596,
+    "stargazers_count": 601,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "Mitscherlich/vue-use-hotkeys",
     "stargazers_count": 5,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "devbaji/vue3-google-login",
     "stargazers_count": 183,
     "open_issues_count": 15,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "xiaoluoboding/vue-sonner",
@@ -109,21 +115,21 @@
   },
   {
     "full_name": "typehero/typehero",
-    "stargazers_count": 5425,
+    "stargazers_count": 5440,
     "open_issues_count": 46,
     "forks_count": 393
   },
   {
     "full_name": "containers/podman",
-    "stargazers_count": 22191,
-    "open_issues_count": 638,
-    "forks_count": 2286
+    "stargazers_count": 22227,
+    "open_issues_count": 603,
+    "forks_count": 2291
   },
   {
     "full_name": "idiotWu/smooth-scrollbar",
-    "stargazers_count": 3294,
+    "stargazers_count": 3293,
     "open_issues_count": 42,
-    "forks_count": 388
+    "forks_count": 389
   },
   {
     "full_name": "AndrewBastin/verzod",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "antfu/drauu",
-    "stargazers_count": 1069,
+    "stargazers_count": 1071,
     "open_issues_count": 8,
     "forks_count": 61
   },
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "ibelick/ui-snippets",
-    "stargazers_count": 389,
+    "stargazers_count": 394,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "jgraph/drawio",
-    "stargazers_count": 39272,
-    "open_issues_count": 251,
-    "forks_count": 7367
+    "stargazers_count": 39321,
+    "open_issues_count": 247,
+    "forks_count": 7373
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 11367,
-    "open_issues_count": 66,
-    "forks_count": 953
+    "stargazers_count": 11503,
+    "open_issues_count": 65,
+    "forks_count": 956
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 25444,
+    "stargazers_count": 25479,
     "open_issues_count": 6,
-    "forks_count": 6164
+    "forks_count": 6179
   },
   {
     "full_name": "chrisbottin/xml-formatter",
     "stargazers_count": 83,
     "open_issues_count": 3,
     "forks_count": 24
-  },
-  {
-    "full_name": "vaneenige/phenomenon",
-    "stargazers_count": 1773,
-    "open_issues_count": 2,
-    "forks_count": 43
   }
 ]
