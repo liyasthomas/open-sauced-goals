@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "voideditor/void",
+    "stargazers_count": 4628,
+    "open_issues_count": 16,
+    "forks_count": 178
+  },
+  {
+    "full_name": "radix-vue/shadcn-vue",
+    "stargazers_count": 4443,
+    "open_issues_count": 77,
+    "forks_count": 254
+  },
+  {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 81881,
-    "open_issues_count": 975,
-    "forks_count": 2458
+    "stargazers_count": 82001,
+    "open_issues_count": 973,
+    "forks_count": 2463
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 25589,
-    "open_issues_count": 37,
-    "forks_count": 1907
+    "stargazers_count": 25670,
+    "open_issues_count": 40,
+    "forks_count": 1915
   },
   {
     "full_name": "VinylMusicPlayer/VinylMusicPlayer",
-    "stargazers_count": 839,
+    "stargazers_count": 841,
     "open_issues_count": 121,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "Habib-Shahzad/tiptap-resizable-image",
@@ -31,31 +43,31 @@
   },
   {
     "full_name": "NiclasDev63/tiptap-extension-global-drag-handle",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "zhanglun/lettura",
-    "stargazers_count": 1488,
+    "stargazers_count": 1491,
     "open_issues_count": 8,
     "forks_count": 67
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 3957,
-    "open_issues_count": 46,
-    "forks_count": 156
+    "stargazers_count": 3997,
+    "open_issues_count": 45,
+    "forks_count": 157
   },
   {
     "full_name": "bae-sh/tiptap-extension-resize-image",
-    "stargazers_count": 52,
+    "stargazers_count": 55,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "sereneinserenade/tiptap-search-and-replace",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 3,
     "forks_count": 8
   },
@@ -67,8 +79,8 @@
   },
   {
     "full_name": "KingSora/OverlayScrollbars",
-    "stargazers_count": 3803,
-    "open_issues_count": 8,
+    "stargazers_count": 3808,
+    "open_issues_count": 9,
     "forks_count": 214
   },
   {
@@ -79,68 +91,68 @@
   },
   {
     "full_name": "Just-Moh-it/Mockoops",
-    "stargazers_count": 406,
+    "stargazers_count": 407,
     "open_issues_count": 4,
     "forks_count": 46
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 16510,
-    "open_issues_count": 101,
+    "stargazers_count": 16541,
+    "open_issues_count": 100,
     "forks_count": 593
   },
   {
     "full_name": "jacoblee93/fully-local-pdf-chatbot",
-    "stargazers_count": 1603,
+    "stargazers_count": 1623,
     "open_issues_count": 10,
-    "forks_count": 290
+    "forks_count": 291
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 28905,
+    "stargazers_count": 28927,
     "open_issues_count": 108,
     "forks_count": 1291
   },
   {
     "full_name": "FatehAK/vite-plugin-image-optimizer",
-    "stargazers_count": 303,
+    "stargazers_count": 302,
     "open_issues_count": 14,
     "forks_count": 15
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 32611,
-    "open_issues_count": 331,
-    "forks_count": 1632
+    "stargazers_count": 32660,
+    "open_issues_count": 332,
+    "forks_count": 1636
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 31327,
-    "open_issues_count": 149,
-    "forks_count": 3611
+    "stargazers_count": 31393,
+    "open_issues_count": 148,
+    "forks_count": 3621
   },
   {
     "full_name": "CodeByZach/pace",
     "stargazers_count": 15677,
     "open_issues_count": 278,
-    "forks_count": 1903
+    "forks_count": 1902
   },
   {
     "full_name": "podraven/y-fire",
     "stargazers_count": 39,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "ibelick/buttons",
-    "stargazers_count": 762,
+    "stargazers_count": 764,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "Mitscherlich/vue-use-hotkeys",
     "stargazers_count": 6,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "xiaoluoboding/vue-sonner",
-    "stargazers_count": 813,
+    "stargazers_count": 816,
     "open_issues_count": 29,
     "forks_count": 42
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "typehero/typehero",
-    "stargazers_count": 5737,
+    "stargazers_count": 5743,
     "open_issues_count": 41,
     "forks_count": 407
-  },
-  {
-    "full_name": "containers/podman",
-    "stargazers_count": 23087,
-    "open_issues_count": 661,
-    "forks_count": 2354
-  },
-  {
-    "full_name": "idiotWu/smooth-scrollbar",
-    "stargazers_count": 3311,
-    "open_issues_count": 44,
-    "forks_count": 384
   }
 ]
