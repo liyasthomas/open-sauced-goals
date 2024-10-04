@@ -1,38 +1,44 @@
 [
   {
+    "full_name": "radix-vue/inspira-ui",
+    "stargazers_count": 80,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "iconify/iconify",
-    "stargazers_count": 4406,
+    "stargazers_count": 4418,
     "open_issues_count": 14,
-    "forks_count": 130
+    "forks_count": 132
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 7116,
-    "open_issues_count": 26,
-    "forks_count": 322
+    "stargazers_count": 7260,
+    "open_issues_count": 25,
+    "forks_count": 331
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 4559,
-    "open_issues_count": 83,
-    "forks_count": 262
+    "stargazers_count": 4588,
+    "open_issues_count": 85,
+    "forks_count": 267
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 82382,
-    "open_issues_count": 969,
-    "forks_count": 2476
+    "stargazers_count": 82570,
+    "open_issues_count": 977,
+    "forks_count": 2477
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 26169,
+    "stargazers_count": 26265,
     "open_issues_count": 42,
-    "forks_count": 1942
+    "forks_count": 1953
   },
   {
     "full_name": "VinylMusicPlayer/VinylMusicPlayer",
     "stargazers_count": 844,
-    "open_issues_count": 121,
+    "open_issues_count": 122,
     "forks_count": 148
   },
   {
@@ -44,7 +50,7 @@
   {
     "full_name": "syfxlin/tiptap-starter-kit",
     "stargazers_count": 80,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 8
   },
   {
@@ -55,25 +61,25 @@
   },
   {
     "full_name": "zhanglun/lettura",
-    "stargazers_count": 1498,
+    "stargazers_count": 1500,
     "open_issues_count": 8,
     "forks_count": 67
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 4121,
-    "open_issues_count": 50,
-    "forks_count": 167
+    "stargazers_count": 4148,
+    "open_issues_count": 51,
+    "forks_count": 168
   },
   {
     "full_name": "bae-sh/tiptap-extension-resize-image",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "sereneinserenade/tiptap-search-and-replace",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 3,
     "forks_count": 8
   },
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "KingSora/OverlayScrollbars",
-    "stargazers_count": 3827,
+    "stargazers_count": 3831,
     "open_issues_count": 9,
     "forks_count": 214
   },
@@ -97,26 +103,26 @@
   },
   {
     "full_name": "Just-Moh-it/Mockoops",
-    "stargazers_count": 407,
+    "stargazers_count": 409,
     "open_issues_count": 4,
     "forks_count": 46
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 16640,
+    "stargazers_count": 16677,
     "open_issues_count": 101,
-    "forks_count": 600
+    "forks_count": 599
   },
   {
     "full_name": "jacoblee93/fully-local-pdf-chatbot",
-    "stargazers_count": 1630,
+    "stargazers_count": 1632,
     "open_issues_count": 10,
-    "forks_count": 295
+    "forks_count": 296
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 28983,
-    "open_issues_count": 106,
+    "stargazers_count": 28993,
+    "open_issues_count": 108,
     "forks_count": 1292
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 32851,
-    "open_issues_count": 338,
-    "forks_count": 1651
+    "stargazers_count": 32893,
+    "open_issues_count": 341,
+    "forks_count": 1653
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 32268,
-    "open_issues_count": 148,
-    "forks_count": 3696
+    "stargazers_count": 32685,
+    "open_issues_count": 145,
+    "forks_count": 3732
   },
   {
     "full_name": "CodeByZach/pace",
@@ -158,25 +164,19 @@
   {
     "full_name": "Mitscherlich/vue-use-hotkeys",
     "stargazers_count": 6,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "devbaji/vue3-google-login",
-    "stargazers_count": 205,
-    "open_issues_count": 3,
+    "stargazers_count": 206,
+    "open_issues_count": 4,
     "forks_count": 30
   },
   {
     "full_name": "xiaoluoboding/vue-sonner",
-    "stargazers_count": 833,
+    "stargazers_count": 835,
     "open_issues_count": 26,
     "forks_count": 42
-  },
-  {
-    "full_name": "hoppscotch/ui",
-    "stargazers_count": 20,
-    "open_issues_count": 18,
-    "forks_count": 10
   }
 ]
